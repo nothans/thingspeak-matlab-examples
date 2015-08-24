@@ -11,7 +11,7 @@ Examples that use the ThingSpeak IoT Platform with the integrated MATLAB Analysi
 * Enter the ThingSpeak Channel ID and Write API Key into the MATLAB code examples
 
 ## random_sensor_value.m
-When this MATLAB Analysis code runs, _[random_sensor_value.m](/random_sensor_value.m)_ will write a random integer between 0 and 1023 to the specified ThingSpeak channel. Here's an example of a ThingSpeak channel: (https://thingspeak.com/channels/53215)
+When this MATLAB Analysis code runs, _[random_sensor_value.m](/random_sensor_value.m)_ will write a random integer between 0 and 1023 to the specified ThingSpeak channel. Here's an example of a ThingSpeak channel: https://thingspeak.com/channels/53215
 
 ## Resources
 The following links were helpful in creating and implementing my MATLAB code using ThingSpeak:
