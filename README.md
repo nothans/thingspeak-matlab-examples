@@ -1,3 +1,5 @@
+[![View ThingSpeak MATLAB Examples on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/93025-thingspeak-matlab-examples)
+
 # ThingSpeak-MATLAB
 Examples that use the ThingSpeak IoT Platform with the integrated MATLAB Analysis and Visualizations Apps.
 
